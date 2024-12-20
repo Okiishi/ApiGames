@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "The Legend of Zelda: Breath of the Wild",
+    "genre": "Adventure",
+    "platform": "Nintendo Switch",
+    "releaseYear": 2017
+  },
+  {
+    "id": 2,
+    "name": "God of War",
+    "genre": "Action",
+    "platform": "PS4",
+    "releaseYear": 2018
+  },
+  {
+    "id": 3,
+    "name": "Halo Infinite",
+    "genre": "Shooter",
+    "platform": "Xbox Series X",
+    "releaseYear": 2021
+  },
+  {
+    "id": 4,
+    "name": "The Witcher 3: Wild Hunt",
+    "genre": "RPG",
+    "platform": "PC",
+    "releaseYear": 2015
+  },
+  {
+    "id": 5,
+    "name": "Minecraft",
+    "genre": "Sandbox",
+    "platform": "Multi-platform",
+    "releaseYear": 2011
+  },
+  {
+    "id": 1734719193754,
+    "name": "God of War Ragnarok",
+    "genre": "Action",
+    "platform": "PS5",
+    "releaseYear": 2022
+  }
+]
